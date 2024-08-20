@@ -1,0 +1,14 @@
+#box{
+    height: 200px;
+    width: 150px;
+    background-color: aqua;
+    border: 1px solid black;
+    text-align: center;
+}
+.eventbox{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(219, 175, 255);
+    border: 1px solid black;
+    text-align: center;
+}
